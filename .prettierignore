@@ -7,3 +7,5 @@
 *.env
 .env
 .env.*
+
+// for the prettire so that the code remain same for all the env and production files
